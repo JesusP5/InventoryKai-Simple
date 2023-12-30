@@ -15,3 +15,4 @@ de herreria, maquinados y herramentales. Este inventario debe cumplir con cierto
 - Manejas copia de seguridad de los datos.
 - Hacer la aplicación lo mas abierta posible para posibles expansiones.
  
+![Diagrama en blanco](https://github.com/JesusP5/InventoryKai-Simple/assets/128532870/b1ca6360-236e-4681-90d1-413b2be5e337)
