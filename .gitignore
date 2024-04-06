@@ -12,3 +12,27 @@ __pycache__/
 temp/
 
 Thumbs.db
+
+# Archivos de base de datos SQLite (si se usa)
+*.sqlite3
+*.sqlite3-journal
+
+# Archivos de configuración local
+local_settings.py
+
+# Carpeta que almacena archivos estáticos recolectados por Django
+staticfiles/
+
+# Carpeta que almacena los archivos de medios subidos por los usuarios
+media/
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
